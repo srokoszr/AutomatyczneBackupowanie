@@ -1,0 +1,15 @@
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\bin\Debug\AutomatyczneBackupowanie.exe.config
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.csprojResolveAssemblyReference.cache
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.Konfiguracja.resources
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.MainForm.resources
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.Properties.Resources.resources
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.csproj.GenerateResource.Cache
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\bin\Debug\AutomatyczneBackupowanie.exe
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\bin\Debug\AutomatyczneBackupowanie.pdb
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.exe
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.pdb
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.KonfiguracjaRozszerzenia.resources
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\bin\Debug\AutomatyczneBackupowanie.exe.manifest
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\bin\Debug\AutomatyczneBackupowanie.application
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.exe.manifest
+E:\C#\AutomatyczneBackupowanie\AutomatyczneBackupowanie\obj\Debug\AutomatyczneBackupowanie.application
